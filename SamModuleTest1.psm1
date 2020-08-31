@@ -1,5 +1,5 @@
 ﻿#sample module
-function Say-Hello{
+function Get-Hello{
 # .ExternalHelp Microsoft.Xrm.Data.PowerShell.Help.xml
     [CmdletBinding()]
     PARAM(
